@@ -20,5 +20,6 @@ export default {
 <style scoped>
 .item {
   line-height: 1.4vh;
+  color: aquamarine;
 }
 </style>
