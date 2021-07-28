@@ -18,4 +18,7 @@ export default {
 </script>
 
 <style scoped>
+.item {
+  line-height: 1.4vh;
+}
 </style>
