@@ -1,5 +1,4 @@
 <template>
-  <h2>This is Todos Component</h2>
   <div v-bind:key="todo.id" v-for="todo in todos">
     <TodoItem v-bind:todo="todo" />
   </div>
